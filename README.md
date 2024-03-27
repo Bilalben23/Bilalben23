@@ -1,9 +1,5 @@
 - 👋 **Hi, I’m Bilal Benyoussef**
-- 👀 <p style="color: #ff0000">I’m interested in learning programming languages and  web development technologies.</p>
-<div style="background-color: #f0f0f0; padding: 10px;">
-    <p style="color: blue;">This is a styled paragraph in Markdown!</p>
-</div>
-
+- 👀 I’m interested in learning programming languages and  web development technologies.
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me:
 - Email:
