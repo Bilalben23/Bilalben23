@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Bilal Benyoussef
-- 👀 I’m interested in learning programming languages and  web development technologies
-- 🌱 I’m currently learning ReactJS.
+- 👋 Hi, I’m **Bilal Benyoussef**
+- 👀 I’m interested in learning programming languages and  web development technologies.
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me:
-- Email => bilalbeny735@gmail.com.
-- Phone Number => +212664897030
+- Email:
+    - bilalbeny735@gmail.com
+ - Phone:
+    - 0664897030
+- Linkden:
+    - www.linkedin.com/in/bilal-benyoussef-b38a27251           
   
 
 <!---
