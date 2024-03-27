@@ -1,5 +1,5 @@
-- 👋 Hi, I’m **Bilal Benyoussef**
-- 👀 I’m interested in learning programming languages and  web development technologies.
+- 👋 **Hi, I’m Bilal Benyoussef**
+- 👀 <p style="color: 'red'">I’m interested in learning programming languages and  web development technologies.</p>
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me:
 - Email:
@@ -7,7 +7,7 @@
  - Phone:
     - 0664897030
 - Linkden:
-    - [www.linkedin.com/in/bilal-benyoussef-b38a27251](www.linkedin.com/in/bilal-benyoussef-b38a27251)   
+    - www.linkedin.com/in/bilal-benyoussef-b38a27251
   
 
 <!---
