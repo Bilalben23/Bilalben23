@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m Bilal Benyoussef**
-- 👀 <p style="color: 'red'">I’m interested in learning programming languages and  web development technologies.</p>
+- 👀 <p style="color: #ff0000">I’m interested in learning programming languages and  web development technologies.</p>
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me:
 - Email:
