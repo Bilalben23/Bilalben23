@@ -7,7 +7,7 @@
  - Phone:
     - 0664897030
 - Linkden:
-    - www.linkedin.com/in/bilal-benyoussef-b38a27251
+  - www.linkedin.com/in/bilal-ben-youssef
 
 ![collaboration](https://f.hubspotusercontent30.net/hubfs/20215080/Feature-Image-Business-Collaboration.jpg) 
 
