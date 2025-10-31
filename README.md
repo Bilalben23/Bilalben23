@@ -3,9 +3,9 @@
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me:
 - Email:
-    - bilalbeny735@gmail.com
+    - bilalbenyoussef7@gmail.com
  - Phone:
-    - 0664897030
+    - +212664897030
 - Linkden:
   - www.linkedin.com/in/bilal-ben-youssef
 
