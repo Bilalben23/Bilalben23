@@ -71,7 +71,7 @@ Feel free to reach out via **LinkedIn** or **email**!
   <a href="mailto:bilalbenyoussef7@gmail.com" target="_blank" title="Email">
     <img src="https://img.shields.io/badge/Email-bilalbenyoussef7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://portfolio2-cyan-three.vercel.app" target="_blank" title="Portfolio">
+  <a href="https://bilalbenyoussef.vercel.app" target="_blank" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
