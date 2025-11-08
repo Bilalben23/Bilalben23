@@ -19,33 +19,81 @@ I thrive on writing **clean, maintainable code**, following **modern development
 
 #### Frontend
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="45" height="45"/></a>
-  <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/></a>
-  <a href="https://redux.js.org" target="_blank" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="45" height="45"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="45" height="45"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" title="Redux">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="45" height="45"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
+  </a>
 </p>
 
 #### Backend
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/></a>
-  <a href="https://expressjs.com" target="_blank" title="Express"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="45" height="45"/></a>
-  <a href="https://mongodb.com" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/></a>
-  <a href="https://redis.io" target="_blank" title="Reduis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" title="Express">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="45" height="45"/></a>
+  <a href="https://mongodb.com" target="_blank" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://redis.io" target="_blank" title="Reduis">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="45"/>
+  </a>
+</p>
+
+### Testing
+<!-- Testing -->
+<p align="left">
+  <a href="https://jestjs.io" target="_blank" title="Jest">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="45" height="45"/>
+  </a>
+  <a href="https://vitest.dev" target="_blank" title="Vitest">
+    <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" width="45" height="45"/>
+  </a>
+  <a href="https://testing-library.com" target="_blank" title="React Testing Library">
+    <img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library" width="45" height="45"/>
+  </a>
 </p>
 
 #### Tools
 <p align="left">
-  <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/></a>
-  <a href="https://github.com" target="_blank" title="Github"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="45" height="45"/></a>
-  <a href="https://postman.com" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/></a>
-  <a href="https://figma.com" target="_blank" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/></a>
-  <a href="https://code.visualstudio.com" target="_blank" title="VS code"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="45" height="45"/></a>
-  <a href="https://jestjs.io" target="_blank" title="Jest"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="45" height="45"/></a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45"/></a>
+  <a href="https://git-scm.com" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com" target="_blank" title="Github">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github" width="45" height="45"/>
+  </a>
+  <a href="https://postman.com" target="_blank" title="Postman">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
+  </a>
+  <a href="https://figma.com" target="_blank" title="Figma">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank" title="VS code">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45"/>
+  </a>
 </p>
 
 ---
